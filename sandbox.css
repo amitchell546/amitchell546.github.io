@@ -1,0 +1,30 @@
+html,body{
+	margin:0;
+	padding:0;
+}
+
+#wrap{
+	width:70%;
+	margin:0 auto;
+	margin:20px ;
+}
+
+header,nav,section,footer {
+	background-color: #ddd;
+	height: 400px;
+	margin: 20px;
+}
+
+#left {
+		background-color: pink;
+		width:180px;
+		float: left;
+		padding: 10px;
+}
+
+#right{
+	background-color:orange;
+	width: 780px;
+	float:right;
+	padding: 10px;
+}
