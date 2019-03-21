@@ -1,0 +1,72 @@
+html,body{
+	margin:0;
+	padding:0;
+	background-image: linear-gradient(green, white);
+	
+}
+
+#headImage{
+	width:500px;
+	display: block;
+	
+	margin: 0 auto;
+	
+	padding: 30px;
+	
+	
+
+
+}
+
+
+#wrap{
+
+	display: block;
+	width:70%;
+	margin:0 auto;
+	padding: 20px;
+	
+	
+}
+
+nav li {
+	
+	display: inline-block;
+	
+	
+	margin: 10px;
+	
+	margin-left: 30px;
+	margin-right: 30px;
+	
+	padding: 25px;
+	
+	
+	padding-left: 100px;
+	padding-right: 100px;
+	
+	font-size: 20px;
+	
+	
+	
+	background-image: linear-gradient(white, green);
+	
+}
+
+header {
+	
+	background-image: linear-gradient(white, green);
+	
+	margin 20px;
+
+	
+}
+
+
+	
+
+section {
+	background-image: linear-gradient(white, green);
+	height: 400px;
+	margin: 20px;
+}
